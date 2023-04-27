@@ -2,8 +2,7 @@
 
 This is the front end of my Amazing Face app.\
 It detects faces in images that are uploaded to it, via the image URL, by using the face-recognition API from Clarifai. 
-It also keeps track of how many images you have uploaded in your account.\
-Yes, your own login account. AMAZING RIGHT?!
+It also keeps track of how many images you have uploaded in your account. Yes, your own login account. AMAZING RIGHT?!
 
 
 # Getting Started
